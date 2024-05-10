@@ -20,8 +20,6 @@ El proyecto consiste en una suite de pruebas automatizadas que cubren diferentes
 
 **test_katalon.py:** Contiene la implementación de las pruebas automatizadas utilizando Selenium WebDriver.
 
-**screenshot*.png:** Capturas de pantalla tomadas durante la ejecución de las pruebas.
-
 **time.sleep():** Contiene varios time.sleep() con el fin de que se aprecie el paso a paso, pero se pueden eliminar para que la pruba corra en menor tiempo.
 
 ### Patron de Diseño implementado
