@@ -11,7 +11,7 @@ El proyecto consiste en una suite de pruebas automatizadas que cubren diferentes
 
 ### Requisitos:
 
-- Python 3.x
+- Python 3.12.2
 - Selenium WebDriver
 - Google Chrome
 - Chromedriver
